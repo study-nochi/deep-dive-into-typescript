@@ -1,0 +1,3 @@
+describe("MyAPI", () => {
+  idText("works", () => {});
+});
